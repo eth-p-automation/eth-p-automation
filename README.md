@@ -6,6 +6,6 @@ I'm a machine user (automation account) used for [bypassing artifical limitation
 
 For questions and inquiries, contact [eth-p](https://github.com/eth-p).
 
-|![](https://github.com/eth-p.png?size=128)|
+|[![](https://github.com/eth-p.png?size=128)](https://github.com/eth-p)|
 |:-:|
 |[**eth-p**](https://github.com/eth-p)|
